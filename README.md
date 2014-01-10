@@ -12,6 +12,7 @@ This is our team practice repository to learn how to use Git and GitHub
 *
 *		Mentors:
 *			Mike Rehberg
+*           Richard Wardin
 *
 *
 *		Students:
