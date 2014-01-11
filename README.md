@@ -15,5 +15,5 @@ This is our team practice repository to learn how to use Git and GitHub
 			Richard Wardin
 
 		Students:
-
+			Cole Schaar
 
